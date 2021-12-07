@@ -16,7 +16,7 @@ sec_key = (
 # Telegram Settings
 send_telegram_alerts = False
 tg_token = ""  # Bot token. Get it from @Botfather
-channel = 0  # Channel ID (ex. -1001487568087)
+channel = -1001298977502  # Channel ID (ex. -1001487568087)
 
 # Discord Settings
 send_discord_alerts = False
@@ -35,7 +35,7 @@ tw_asecret = ""
 
 # Email Settings
 send_email_alerts = False
-email_sender = ""  # Your email address
+email_sender = ""akisiyma@hotmail.com"
 email_receivers = ["", ""]  # Receivers, can be multiple
 email_subject = "Trade Alert!"
 
